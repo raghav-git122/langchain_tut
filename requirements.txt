@@ -1,0 +1,47 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain_experimental
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Ollama Integration (cloud-hosted models via OLLAMA_API_KEY)
+langchain-ollama
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# Graph visualization (chain.get_graph().print_ascii())
+grandalf
+
+#AI Utilities
+torch
+
+#doc loader
+pyPDF
+
+#vector stores
+chrombadb
+tiktoken
+
+#retreivers
+wikipedia
